@@ -116,8 +116,4 @@ Hugging Face Model Repository: omarrmohammed/Sentinel-AI-Core on Hugging Face
 
 Author : Omar Mohamed
 
-
-
-Omar Mohamed
-
 Email: ommo9745@gmail.com
