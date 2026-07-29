@@ -1,0 +1,17 @@
+# Temporary Uploads & Media
+uploads/
+*.mp4
+*.avi
+*.mov
+
+# Heavy Model Files (Loaded via Hugging Face Hub)
+*.h5
+*.pt
+*.pkl
+
+# Python Cache & Env Files
+__pycache__/
+*.pyc
+.env
+venv/
+.vscode/
