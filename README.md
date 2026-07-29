@@ -112,7 +112,7 @@ GET /health
 Returns system operational status./
 
 🔗 Live Demo & Links : https://sentinel-ai-eight-kohl.vercel.app/
-Hugging Face Model Repository: Sentinel AI on Hugging Face
+Hugging Face Model Repository: omarrmohammed/Sentinel-AI-Core on Hugging Face
 
 Author : Omar Mohamed
 
