@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+requests
+opencv-python-headless
+numpy
+tensorflow==2.15.0
+tf-keras
+huggingface_hub
+flask
+werkzeug
